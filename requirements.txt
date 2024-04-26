@@ -6,3 +6,4 @@ scikit-learn
 seaborn
 neuralprophet
 pickle
+ipywidgets
